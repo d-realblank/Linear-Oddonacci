@@ -1,0 +1,41 @@
+David Onwionoko 40167358
+
+Trace of Linear Oddonacci output:
+Linear Oddonacci of 5 is: 5                        (2500ns)
+Linear Oddonacci of 10 is: 105                     (1900ns)
+Linear Oddonacci of 15 is: 2209                    (1000ns)
+Linear Oddonacci of 20 is: 46499                   (1100ns)
+Linear Oddonacci of 25 is: 978793                  (1300ns)
+Linear Oddonacci of 30 is: 20603361                (1700ns)
+Linear Oddonacci of 35 is: 433695873               (1800ns)
+Linear Oddonacci of 40 is: 9129195487              (2500ns)
+Linear Oddonacci of 45 is: 192167404461            (2100ns)
+Linear Oddonacci of 50 is: 4045078385041           (2100ns)
+Linear Oddonacci of 55 is: 85147942685809          (10900ns)
+Linear Oddonacci of 60 is: 1792344042191491        (12400ns)
+Linear Oddonacci of 65 is: 37728417907092161       (5900ns)
+Linear Oddonacci of 70 is: 794174268033812681      (1100ns)
+Linear Oddonacci of 75 is: -1729563683050201663    (700ns)
+Linear Oddonacci of 80 is: 1404553489305773151     (700ns)
+Linear Oddonacci of 85 is: -8333254287014256043    (800ns)
+Linear Oddonacci of 90 is: 9144090516051710745     (800ns)
+Linear Oddonacci of 95 is: 629759302281926593      (900ns)
+Linear Oddonacci of 100 is: -4410962496751638461   (900ns)
+
+Trace of Exponential Oddonacci output:
+Exponential Oddonaci of 5 is: 5                    (5200ns)
+Exponential Oddonaci of 10 is: 105                 (5500ns)
+Exponential Oddonaci of 15 is: 2209                (110500ns)
+Exponential Oddonaci of 20 is: 46499               (308300ns)
+Exponential Oddonaci of 25 is: 978793              (3622900ns)
+Exponential Oddonaci of 30 is: 20603361            (47207600ns)
+Exponential Oddonaci of 35 is: 433695873           (1131344200ns)
+
+Table of exponential and linear call times (ns):
+5    5200                 2500
+10   5500                 1900
+15   110500               1000
+20   308300               1100
+25   3622900              1300
+30   47207600             1700
+35   1131344200           1800
